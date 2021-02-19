@@ -1,0 +1,35 @@
+[
+{
+    "pogId": "1",
+    "supc": "abc",
+    "brand": "Apple",
+    "description": "Phone",
+    "size": "small",
+    "category": "electronics",
+    "subcategory": "phone",
+    "price": "10000",
+    "quantity": "1",
+	"country": "India",
+	"sellercode": "10",
+	"creationtime": "Monday",
+	"stock": "5"
+  
+},
+
+{
+    "pogId": "2",
+    "supc": "qwe",
+    "brand": "Samsung",
+    "description": "Phone",
+    "size": "small",
+    "category": "electronics",
+    "subcategory": "phone",
+    "price": "10000",
+    "quantity": "2",
+	"country": "India",
+	"sellercode": "10",
+	"creationtime": "Monday",
+	"stock": "5"
+  
+}
+]

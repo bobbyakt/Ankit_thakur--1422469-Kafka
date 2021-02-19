@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "javaType": "com.company.examples.types.product",
+  "properties": {
+    "pogId": {"type": "string"},
+    "supc": {"type": "string"},
+    "brand": {"type": "string"},
+    "description": {"type": "string"},
+    "size": {"type": "string"},
+    "category": {"type": "string"},
+    "subcategory": {"type": "string"},
+    "price": {"type": "string"},
+    "quantity": {"type": "string"},
+    "country": {"type": "string"},
+    "sellercode": {"type": "string"},
+    "creationtime": {"type": "string"},
+    "stock": {"type": "string"}
+  }
+}
